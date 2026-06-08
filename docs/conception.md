@@ -1,8 +1,3 @@
-# 🤖 Documentation Projet : Robot Humanoïde Otto-MKS
-
-
----
-
 ## 📐 Conception & Présentation d'Otto-MKS
 Le robot Otto original est un robot humanoïde open-source, modulaire et programmable, largement conçu pour l'impression 3D.
 
