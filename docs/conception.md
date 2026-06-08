@@ -1,9 +1,5 @@
 # 🤖 Documentation Projet : Robot Humanoïde Otto-MKS
 
-## 📝 Introduction
-Dans le cadre d'un projet de première année au MakerSpace d'**UniLaSalle Amiens**, nous avons assemblé, programmé et personnalisé un robot humanoïde **Otto-MKS**. 
-
-Ce projet s'inscrit dans le cadre des **Ottolympiades**, un tournoi de fin d'année par groupe de 2 visant à tester les capacités de nos robots à travers plusieurs épreuves compétitives. Le but de ce projet est de s'initier aux bases de la robotique et de la modélisation 3D, tout en faisant preuve de créativité et d'innovation.
 
 ---
 
