@@ -5,41 +5,82 @@ title: Accueil
 permalink: /
 ---
 
-# Bienvenue sur notre documentation
+# 🤖 Otto-MKS - Projet Ottolympiades
 
-Bienvenue dans la documentation du projet XY. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
+Bienvenue dans la documentation du projet **Otto-MKS**, réalisé dans le cadre de la première année d'ingénierie au MakerSpace d'UniLaSalle Amiens.
 
-[Notre projet sur Onshape](https://cad.onshape.com/documents/2860ed3d58f1b518e6857770/w/82b3c0e474623135ccb76fa3/e/0cab16137cd459ee83ebe56e?renderMode=0&uiState=6936dc0e23fecc27d34268b2){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Notre repo GitHub](https://github.com/Makerspace-Amiens/template-project){: .btn .fs-5 .mb-4 .mb-md-0 }
+Ce projet consiste à assembler, programmer et personnaliser un robot humanoïde afin de participer aux **Ottolympiades**, une compétition de fin d'année opposant les différents robots conçus par les étudiants.
 
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=2860ed3d58f1b518e6857770&wvm=v&wvmid=6280fca954e7770df59e5a2f&eid=0cab16137cd459ee83ebe56e&elementType=ASSEMBLY" frameborder="0"></iframe>
-
-{: .warning }
->Pour intégrer la visualisation de votre projet Onshape, utilisez le site https://modelembedder.net . Activez le partage par lien via l'outil de partage de Onshape. n'oubliez pas d'activer l'option "export". Puis completez l'iframe ci-dessus avec le lien généré par le site https://modelembedder.net. Vous pouvez mettre à jour également le bouton avec le lien de partage de votre modèle.
-
-
-## À propos du Projet
-
-Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre projet. Quel est son but ? À qui est-il destiné ? Quels problèmes cherche-t-il à résoudre ?
-
-
-## Poster
-
-Ici vous publierez le poster de votre projet.
-
-![Poster projet](images/poster.jpg)
-
-## Vidéo
-
-Ici vous publierez la vidéo de votre projet. 
-- 1min30 au format vertical
-- Présentation du projet 
-- Des explication du fonctionnement du projet
-- Des vues du projet / Prototype / Application etc... 
-- Des plans du fonctionnement (même basique ou des éléments séparés)
-- Une conclusion
-- Si en stockage local : <50mo
-
-<video src="images/intro_amiens.mp4" controls title="Title"  style="width: 100%;"></video>
+L'objectif est de découvrir les bases de la robotique, de la modélisation 3D et de la programmation embarquée tout en développant la créativité et l'esprit d'innovation.
 
 ---
+
+## 🌍 Présentation du projet
+
+Le robot Otto est un robot humanoïde open-source, modulaire et programmable conçu pour être fabriqué par impression 3D.
+
+À partir de ce concept, le MakerSpace d'UniLaSalle Amiens a développé une version personnalisée : **Otto-MKS**.
+
+### Caractéristiques principales
+
+- Contrôle via Bluetooth BLE
+- Connexion Wi-Fi
+- Pilotage depuis un smartphone
+- Compatibilité avec différents capteurs
+- Structure entièrement imprimée en 3D
+
+Ces améliorations permettent d'offrir davantage de possibilités lors des épreuves des Ottolympiades.
+
+---
+
+## 🦾 Notre robot : Lamano Otto
+
+Notre équipe a conçu et personnalisé le robot **Lamano Otto**.
+
+Le robot a été développé pour :
+
+- Réaliser différents déplacements
+- Être piloté à distance via Bluetooth
+- Participer efficacement aux différentes épreuves
+- Présenter un design personnalisé
+
+---
+
+## 🔧 Composants utilisés
+
+Le robot est composé des éléments suivants :
+
+| Composant | Description |
+|------------|------------|
+| Carte Otto-MKS | Carte ESP32 développée par le MakerSpace |
+| 4 Servomoteurs | Contrôle des jambes et des pieds |
+| Capteur HC-SR04 | Détection d'obstacles |
+| Batterie rechargeable 9V | Alimentation du robot |
+| Pièces imprimées en 3D | Structure du robot |
+
+---
+
+## 📂 Documentation
+
+Vous trouverez dans cette documentation :
+
+- Les objectifs du projet
+- Les étapes de conception
+- La fabrication du robot
+- La programmation de l'ESP32
+- Les modèles 3D
+- Les résultats obtenus lors des Ottolympiades
+
+---
+
+## 🏆 Conclusion
+
+Ce projet nous a permis d'acquérir des compétences en :
+
+- Robotique
+- Modélisation 3D sur OnShape
+- Impression 3D
+- Électronique embarquée
+- Programmation sur ESP32
+
+Grâce à l'intégration d'un système de contrôle sans fil et à la personnalisation complète du robot, **Lamano Otto** a pu participer aux Ottolympiades dans les meilleures conditions.
