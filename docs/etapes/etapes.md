@@ -1,27 +1,27 @@
 ---
 layout: default
 title: Etapes de fabrication
-nav_order: 6
 has_children: true
+permalink: /etapes
 ---
 
-# Étapes de Fabrication
+# 🛠️ Étapes de Fabrication
 
-Bienvenue dans la section dédiée aux étapes de fabrication du projet XYZ. Ici, vous trouverez des guides détaillés pour chaque étape du processus de fabrication.
-
-## Aperçu des Étapes
-
-Le processus de fabrication est divisé en plusieurs étapes clés :
-
-1. [Préparation des Matériaux](etape_1)
-2. [Assemblage](etape_2)
-3. [Finition]()
-4. [Contrôle Qualité]()
-
-## Commencer
-
-Pour commencer, assurez-vous de bien comprendre chaque étape et de disposer de tous les outils et matériaux nécessaires. Suivez les étapes dans l'ordre pour garantir la qualité et l'efficacité du processus de fabrication.
+Bienvenue dans la section dédiée aux étapes de fabrication du robot **Otto-MKS**. Vous trouverez ici les guides détaillés et illustrés pour suivre le processus de création de notre robot humanoïde pas à pas.
 
 ---
 
-Pour toute question ou aide supplémentaire, n'hésitez pas à contacter notre équipe.
+## 🔍 Aperçu des Étapes
+
+Le processus de fabrication est divisé en deux grandes phases clés :
+
+1. **[Préparation des Matériaux](./etape_1.html)** : Inventaire des composants électroniques fournis par le MakerSpace et impression 3D des pièces de structure sur l'imprimante **BambuLab**.
+2. **[Assemblage](./etape_2.html)** : Calibrage des servomoteurs, montage mécanique de la structure et câblage de la carte de contrôle ESP32.
+
+---
+
+## 🚀 Commencer
+
+Pour commencer, assurez-vous de bien comprendre chaque étape et de disposer de tout le matériel requis au MakerSpace d'UniLaSalle Amiens. Suivez les guides dans l'ordre chronologique pour garantir la stabilité mécanique et le bon fonctionnement électronique de votre robot avant de passer à la phase de programmation.
+
+Si vous rencontrez le moindre problème d'emboîtement ou un doute sur le câblage, n'hésitez pas à vous référer aux rubriques *Problèmes Communs et Solutions* présentes à la fin de chaque guide, ou contacter notre équipe.
