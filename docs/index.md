@@ -69,7 +69,9 @@ Ce projet d'ingénierie de première année au MakerSpace d'UniLaSalle Amiens a 
 
 ## Vidéo
 
-https://github.com/user-attachments/assets/1c668326-d1f5-41e1-ac38-be07f81b9f73
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/1c668326-d1f5-41e1-ac38-be07f81b9f73" width="700" controls></video>
+</p>
 
 <video src="images/intro_amiens.mp4" controls title="Title"  style="width: 100%;"></video>
 
