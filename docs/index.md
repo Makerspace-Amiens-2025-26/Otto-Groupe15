@@ -13,8 +13,15 @@ Bienvenue dans la documentation du projet Otoo. Ce site a pour but de fournir to
 [Notre repo GitHub](https://github.com/Makerspace-Amiens/template-project){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ### 🤖 Notre Modèle 3D (OnShape)
-[![Cliquez ici pour interagir avec le modèle 3D](https://raw.githubusercontent.com/Makerspace-Amiens-2025-26/Otto-Groupe15/main/docs/images/otto_preview.png)](https://cad.onshape.com/documents/c6ec4971b6b5d4da3d8c69bf/w/2707927c11ab40a765c09b32/e/18c3610bb8b025732a03c396)
-*Cliquez sur l'image ci-dessus pour ouvrir et manipuler notre robot en 3D directement sur OnShape.*
+<p align="center">
+  <a href="https://cad.onshape.com/documents/c6ec4971b6b5d4da3d8c69bf/w/2707927c11ab40a765c09b32/e/18c3610bb8b025732a03c396" target="_blank">
+    <img src="./images/otto_preview.png" alt="Cliquez pour voir le modèle 3D" width="80%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </a>
+  <br>
+  <em>💡 Cliquez sur l'image pour ouvrir et manipuler notre robot en 3D directement sur OnShape.</em>
+</p>
+
+---
 
 ## 📝 Introduction
 Dans le cadre d'un projet de première année au MakerSpace d'**UniLaSalle Amiens**, nous avons assemblé, programmé et personnalisé un robot humanoïde **Otto-MKS**. 
