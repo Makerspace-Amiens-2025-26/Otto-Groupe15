@@ -65,7 +65,10 @@ La boucle principale (`void loop()`) analyse la position des joysticks pour exé
 Ce projet d'ingénierie de première année au MakerSpace d'UniLaSalle Amiens a permis de concrétiser l'assemblage, la personnalisation 3D sur OnShape et la programmation complète du robot humanoïde **lamano otto**. Grâce à l'intégration du système de contrôle sans fil, le robot a été prêt à concourir de manière optimale lors des épreuves des Ottolympiades.
 
 
+
 ## Vidéo
+Pour voir le robot en action et découvrir une présentation professionel (pas trop..) de notre projet, vous pouvez visionner notre vidéo ci dessous.
+Si la vidéo ne se lance pas, veuillez copier ce lien : https://youtube.com/shorts/0be9pnPoyPI?feature=shared
 
 <p align="center">
   <video src="https://github.com/user-attachments/assets/1c668326-d1f5-41e1-ac38-be07f81b9f73" width="700" controls></video>
