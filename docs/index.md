@@ -12,7 +12,7 @@ Bienvenue dans la documentation du projet Otoo. Ce site a pour but de fournir to
 [Notre projet sur Onshape](https://cad.onshape.com/documents/c6ec4971b6b5d4da3d8c69bf/w/2707927c11ab40a765c09b32/e/18c3610bb8b025732a03c396){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Notre repo GitHub](https://github.com/Makerspace-Amiens/template-project){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=c6ec4971b6b5d4da3d8c69bf&wvm=w&wvmid=2707927c11ab40a765c09b32" frameborder="0"></iframe>
+<iframe height="600" width="100%" src="https://cad.onshape.com/documents/c6ec4971b6b5d4da3d8c69bf/w/2707927c11ab40a765c09b32/e/18c3610bb8b025732a03c396?renderMode=0" frameborder="0" allowfullscreen></iframe>
 
 ## 📝 Introduction
 Dans le cadre d'un projet de première année au MakerSpace d'**UniLaSalle Amiens**, nous avons assemblé, programmé et personnalisé un robot humanoïde **Otto-MKS**. 
