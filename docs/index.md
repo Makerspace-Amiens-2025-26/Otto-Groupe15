@@ -9,7 +9,7 @@ permalink: /
 
 Bienvenue dans la documentation du projet Otoo. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
-[Notre projet sur Onshape](https://cad.onshape.com/documents/8f4bc373e7ce58c4842f96c2/w/afa3a6177275a57fffa33ff1/e/99a4f593ee87c839d3dcc364){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Notre projet sur Onshape](https://cad.onshape.com/documents/c6ec4971b6b5d4da3d8c69bf/w/2707927c11ab40a765c09b32/e/18c3610bb8b025732a03c396){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Notre repo GitHub](https://github.com/Makerspace-Amiens/template-project){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=2860ed3d58f1b518e6857770&wvm=v&wvmid=6280fca954e7770df59e5a2f&eid=0cab16137cd459ee83ebe56e&elementType=ASSEMBLY" frameborder="0"></iframe>
